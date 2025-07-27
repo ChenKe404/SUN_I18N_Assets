@@ -1,0 +1,95 @@
+# name : Capture Umagon
+# wiki : https://cnc.fandom.com/wiki/Transcript:Capture_Umagon
+# creator : ChenKe404
+
+# Nod scout: The ship is immobilized, sir!
+% 0.099490 : 1.691327
+> 侦察兵: 飞船没法移动了, 长官!
+
+# Nod scout: Vega's men are ready to blow down the sinkhole.
+% 1.691327 : 4.228316
+> 侦察兵: 维加的人正准备炸掉陷坑
+
+# Kane: And the Tacitus?
+% 4.676020 : 6.118622
+> 凯恩: 塔西佗呢?
+
+# Scout: There is no sign of the object which you described, sir.
+% 6.516582 : 9.103316
+> 侦察兵: 没有发现您描述的那个物体, 长官
+
+# Kane: The Tacitus is the source, Slavik.
+% 9.750000 : 13.133929
+> 凯恩: 塔西佗才是关键, 斯拉维克
+
+# Kane: Its Tiberium secret can make or break empires.
+% 13.730867 : 17.909439
+> 凯恩: 它的秘密可以成就或毁灭我们的帝国
+
+# Kane: Find it.
+% 18.804847 : 19.948980
+> 凯恩: 找到它
+
+# Slavik: Locate that Tacitus, soldier...
+% 20.099490 : 22.487245
+> 斯拉维克: 找到那塔西佗, 士兵...
+
+# Slavik: or I will bury your team in that hole.
+% 24.526786 : 27.511480
+> 斯拉维克: 否则我把你们也埋在那个洞里
+
+# Scout: Yes sir!...
+% 27.809949 : 28.556122
+> 侦察兵: 是, 长官!
+
+# Scout: Hang on sir, there's movement here.
+% 29.899235 : 32.536990
+> 侦察兵: 等等长官, 这里有动静
+
+# Oxanna: CABAL, replay.
+% 43.084184 : 45.272959
+> 奥克斯安娜: CABAL, 回放
+
+# Slavik: Detail.
+% 47.312500 : 48.257653
+> 斯拉维克: 细节
+
+# Slavik: Frame forward.
+% 51.890306 : 53.034439
+> 斯拉维克: 向前一帧
+
+# Slavik: Cycle.
+% 56.367347 : 57.411990
+> 斯拉维克: 循环
+
+# Oxanna: Freeze.
+% 59.501276 : 60.447704
+> 奥克斯安娜: 暂停
+
+# Oxanna: Extrapolate for missing data.
+% 60.895408 : 63.332908
+> 奥克斯安娜: 补全缺失的数据
+
+# Oxanna: Mutants...
+% 72.686224 : 73.830357
+> 奥克斯安娜: 变种人...
+
+# Slavik: CABAL.
+% 78.605867 : 79.700255
+> 斯拉维克: CABAL
+
+# Slavik: How do we find her?
+% 83.482143 : 85.223214
+> 斯拉维克: 我们怎么找到她?
+
+# CABAL: Probability suggests she will return to the GDI medical colony near Provo,
+% 85.720663 : 92.039541
+> CABAL: 计算显示她有概率会返回GDI在普罗沃附近的医疗基地
+
+# CABAL: or into the underground railroad here near New Detroit.
+% 92.288265 : 96.218112
+> CABAL: 或者进入新底特律附近的地下通道
+
+# CABAL: The decision is yours, Commander Slavik.
+% 96.516582 : 99.750000
+> CABAL: 选择权在你手上, 斯拉维克指挥官
