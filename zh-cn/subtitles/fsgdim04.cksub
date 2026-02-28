@@ -1,0 +1,179 @@
+# 作者: bilibili@505243267
+# 主页: https://space.bilibili.com/4919616
+
+
+# Cortez: Commander, stand by.
+% 0.413355 : 1.748808
+> 科特斯: 指挥官, 准备
+
+# Cortez: I'm having EVA conference Dr. Boudreau into this debriefing.
+% 2.066773 : 4.377583
+> 科特斯: 我正连线布德罗博士, 一起开个EVA会议
+
+# Cortez: EVA?
+% 4.476948 : 4.928458
+> 科特斯: EVA?
+
+# EVA: Incoming transmission from Daedalus research complex,
+% 6.200318 : 8.680445
+> EVA: 收到来自代达罗斯研究中心的通讯
+
+# EVA:  please stand by...
+% 8.807631 : 9.856916
+> EVA: 请稍等...
+
+# Boudreau: What are you doing about the assassination of Tratos, General?
+% 10.015898 : 11.987281
+> 布德罗: 对于特拉托斯遇刺事件, 将军您有何应对措施?
+
+# Boudreau: How could GDI let this happen?
+% 11.987281 : 13.259141
+> 布德罗: GDI怎么能让这种事发生?
+
+# Boudreau: He was an integral-
+% 13.513514 : 14.085851
+> 布德罗: 他可是至关重要的...
+
+# Cortez: Our forces have been spread thin, Doctor.
+% 14.085851 : 15.930048
+> 科特斯: 我们的兵力捉襟见肘, 博士
+
+# Cortez: Not to mention,
+% 16.248013 : 16.756757
+> 科特斯: 更何况
+
+# Cortez: we're still unable to raise the Philadelphia.
+% 16.756757 : 18.346582
+> 科特斯: 我们至今仍无法打捞起费城号
+
+# Boudreau: I was there, I saw the Kodiak go down
+% 18.441971 : 20.413355
+> 布德罗: 我当时就在现场, 我亲眼目睹了科迪亚克坠毁
+
+# Boudreau: unless you forget the point of this entire operation 
+% 20.413355 : 22.130366
+> 布德罗: 除非你忘了这次行动的目的
+
+# Boudreau: was to get the Tacitus to Tratos.
+% 22.130366 : 23.783784
+> 布德罗: 是把塔西佗送到特拉托斯那里
+
+# Cortez: Let's save the recriminations.
+% 23.847377 : 25.151033
+> 科特斯: 别互相指责了
+
+# Cortez: What do you have for us.
+% 26.804452 : 27.662957
+> 科特斯: 还有其他要说的吗?
+
+# Boudreau: The Daedalus Team and I are still convinced that the Tacitus is our best approach.
+% 28.934817 : 32.432432
+> 布德罗: 代达罗斯小队和我仍然坚信塔西佗是我们的最佳方案
+
+# Boudreau: The assassination of Tratos has put us months,
+% 32.972973 : 34.976153
+> 布德罗: 特拉托斯遇刺事件已经让我们的计划延误了数月
+
+# Boudreau: if not years, off schedule.
+% 34.976153 : 36.343402
+> 布德罗: 甚至数年
+
+# Boudreau: At the present rate of Tiberium organic synthesis,
+% 37.519873 : 40.063593
+> 布德罗: 按照目前泰伯利亚有机合成的速度
+
+# Boudreau: within a year, maybe less,
+% 40.063593 : 41.740859
+> 布德罗: 不出一年, 甚至可能更短的时间
+
+# Boudreau: our atmosphere will be 100% toxic to humans.
+% 42.139110 : 44.833068
+> 布德罗: 我们的大气层就会对人类造成100%的毒害
+
+# Cortez: EVA,
+% 45.310016 : 45.945946
+> 科特斯: EVA
+
+# Cortez: what alternatives to deciphering this Tacitus are at our disposal?
+% 46.263911 : 49.125596
+> 科特斯: 除了破译塔西佗, 我们还有什么其他办法?
+
+# Boudreau: Actually Paul, I have an idea.
+% 49.189189 : 51.192369
+> 布德罗: 其实, 保罗, 我有个主意
+
+# Boudreau: You're not gonna like it:
+% 51.891892 : 52.845787
+> 布德罗: 你肯定不喜欢
+
+# Boudreau: CABAL, Kane's AI.
+% 53.577107 : 55.357711
+> 布德罗: 凯恩的人工智能, CABAL
+
+# Cortez: You serious?...
+% 57.011129 : 57.774245
+> 科特斯: 你认真的吗?
+
+# Cortez: EVA, analysis.
+% 59.046105 : 60.317965
+> 科特斯: EVA, 分析一下
+
+# EVA: Analysis from Kane's temple indicates that
+% 60.890302 : 62.988871
+> EVA: 来自凯恩神庙的分析表明
+
+# EVA: Kane's master computer CABAL
+% 62.988871 : 64.578696
+> EVA: 凯恩的主控电脑CABAL
+
+# EVA: assisted Tratos in the translation of the Tacitus.
+% 64.578696 : 67.027027
+> EVA: 协助特拉托斯翻译了塔西佗
+
+# Cortez: Current intel on CABAL's status and location?
+% 68.521463 : 70.302067
+> 科特斯: 关于CABAL的状态和位置, 目前有什么情报?
+
+# EVA: Interception of recent coded signals indicates that CABAL is back online.
+% 70.683625 : 74.085851
+> EVA: 近期截获的加密信号表明CABAL已经恢复运行
+
+# EVA: If CABAL could be captured intact,
+% 74.308426 : 75.930048
+> EVA: 如果能完整地捕获CABAL
+
+# EVA: it could translate the Tacitus for GDI.
+% 76.089030 : 78.124006
+> EVA: 它就能为GDI翻译塔西佗
+
+# EVA: I have pinpointed the locations of CABAL's data core.
+% 78.696343 : 81.240064
+> EVA: 我已经确定了CABAL数据核心的位置
+
+# Cortez: Commander,
+% 82.893482 : 83.529412
+> 科特斯: 指挥官
+
+# Cortez: as distasteful as the idea sounds...
+% 84.419714 : 86.327504
+> 科特斯: 虽然这主意听起来令人不快
+
+# Cortez: it appears that CABAL is our best shot at stopping Tiberium contamination. 
+% 87.058824 : 90.174881
+> 科特斯: 但看来CABAL是我们阻止泰伯利亚污染的最佳希望
+
+# Cortez: Think of this as a prisoner snatch,
+% 92.464229 : 93.990461
+> 科特斯: 就当是抓捕囚犯吧
+
+# Cortez: I want a hard target recovery of CABAL.
+% 93.990461 : 95.771065
+> 科特斯: 我要彻底夺回CABAL
+
+# Cortez: Use whatever means you deem necessary,
+% 95.866455 : 97.615262
+> 科特斯: 不惜一切手段
+
+# Cortez: but get that machine intact!
+% 97.615262 : 99.364070
+> 科特斯: 务必确保那台机器完好无损
